@@ -1,5 +1,8 @@
 # Hydrostatic Equilibrium for rotating cylindrical poolytropes
 
+```math
+a^2+b^2=c^2
+```
 
 ## Lane-Emden Equation
 
