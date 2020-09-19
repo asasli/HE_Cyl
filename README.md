@@ -1,4 +1,4 @@
-# Hydrostatic Equilibrium for uniformly rotating cylindrical polytropes
+# Hydrostatic Equilibrium of niformly rotating cylindrical polytropes
 
 A detailed analysis of how to track the surface of cylindrical polytropes.
 
