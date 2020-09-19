@@ -6,7 +6,7 @@ A detailed analysis of how to track the surface of cylindrical polytropes.
 
 The method with wich the problem is solved is the cassical 4th-order Runge-Kutta.
 
-### Construct
+### Construct your polytrope
 
 Constructing different polytropes by setting b (rotation) and polytropic index n. 
 
